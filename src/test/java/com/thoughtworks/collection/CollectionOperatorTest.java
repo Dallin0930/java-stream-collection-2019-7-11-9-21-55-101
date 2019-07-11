@@ -33,7 +33,7 @@ public class CollectionOperatorTest {
         int right = 10;
         int left = 1;
 
-        CollectionOperator collectionOperator = new CollectionOperator();
+        CollectionOperator collectionOperator = new CollectionOperator();   
 
         Integer[] result = new Integer[]{2, 4, 6, 8, 10};
         List<Integer> resultList = Arrays.asList(result);

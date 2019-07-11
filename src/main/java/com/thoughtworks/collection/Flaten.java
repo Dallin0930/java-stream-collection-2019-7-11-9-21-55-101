@@ -14,7 +14,8 @@ public class Flaten {
     public List<Integer> transformToOneDimesional() {
         throw new NotImplementedException();
     }
-
+    
+    
     public List<Integer> transformToUnrepeatedOneDimesional() {
         throw new NotImplementedException();
     }
