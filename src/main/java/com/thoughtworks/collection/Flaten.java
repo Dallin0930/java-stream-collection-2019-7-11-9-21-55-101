@@ -11,6 +11,8 @@ public class Flaten {
         this.array = array;
     }
 
+
+
     public List<Integer> transformToOneDimesional() {
         throw new NotImplementedException();
     }

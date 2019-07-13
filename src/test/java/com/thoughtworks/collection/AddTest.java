@@ -12,7 +12,7 @@ public class AddTest {
     @Test
     public void should_get_sum_of_evens() {
         //求leftBorder 和rightBorder之间的偶数和  
-        int leftBorder = 1;      
+        int leftBorder = 1;        
         int rightBorder = 10;        
 
         Add add = new Add();
